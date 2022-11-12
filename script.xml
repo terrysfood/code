@@ -4,7 +4,7 @@
 <binding id="mycode">
   <implementation>
     <constructor>
-      alert("XBL script executed.");
+      console.log("duck");
     </constructor>
   </implementation>
 </binding>
